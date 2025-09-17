@@ -70,13 +70,13 @@ Utilize as seguintes alternativas
 
 # Pkill 
 
-pkill -9 vlc
-pkill vlc
+pkill -9 mpv
+pkill mpv
 
 # Sudo + killall
 
-sudo killall vlc
-sudo killall -9 vlc
+sudo killall mpv
+sudo killall -9 mpv
 
 ------------------------------------------------------------------------
 
