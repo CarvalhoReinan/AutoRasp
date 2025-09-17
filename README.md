@@ -61,7 +61,7 @@ atualiza sem precisar reiniciar manualmente.
 
 # COMO FECHAR ?
 
-Para encerrar o programa Ctrl + C ! (Opção primária)
+Para encerrar o programa Ctrl + C  (Opção primária)
 
 # Forçar Parada 
 aperte alt + tab e entrará no código e digite
