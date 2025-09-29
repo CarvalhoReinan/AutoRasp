@@ -87,5 +87,5 @@ sudo killall -9 mpv
 -   **Exposições e museus**\
 -   Projetos de **sinalização digital**
 
-## Projeto Comercial de uso livre @CarvalhoReinan
-## Github, reinancdj55@gmail.com - e-mail
+### Projeto Comercial de uso livre @CarvalhoReinan (Github)
+### reinancdj55@gmail.com - e-mail
